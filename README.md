@@ -1,41 +1,95 @@
-# 👋 Hi, I'm Jeya Balaji  
+<!-- Profile Header -->
+<h1 align="center">Hi 👋, I'm Jeya Balaji C K</h1>
+<h3 align="center">💻 Front-End Developer | ⚡ IoT Enthusiast | 🌐 Full-Stack Learner</h3>
 
-💻 Backend Developer | ⚡ IoT Enthusiast | 🌐 MERN Stack Learner  
-
----
-
-## 🔹 About Me  
-- 🛠️ Currently working as an Intern at **Schnell Equipments** (Backend Team)  
-- 💡 Projects: **Smartlight IoT Systems**, **SchnellIoT API**, **IoT Service Management**  
-- 🌱 Learning: **Growatt OpenAPI**, **MERN Stack Development**  
-- 🔍 Interested in: **IoT Integrations, API Development, Cloud Platforms**  
-- 🎯 Goal: To build scalable IoT solutions and efficient web applications  
+<!-- Typing Animation -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1500&color=FF5733&center=true&vCenter=true&width=780&lines=Front-End+Developer;Crafting+Modern+UI+Experiences;Passionate+About+IoT+%26+APIs;Always+Learning+New+Tech" alt="Typing SVG" />
+</p>
 
 ---
 
-## 🚀 Tech Stack  
-- **Languages:** Python, JavaScript, PHP, SQL  
-- **Frameworks:** Django, Node.js, Express.js  
-- **Databases:** MySQL, MongoDB  
-- **IoT Platforms:** ThingsBoard, SchnellIoT, IoTPro  
-- **Tools & Others:** Git, Docker, Linux, REST APIs  
+## 📝 About Me  
+✨ I’m a **Front-End Developer** passionate about creating responsive, interactive, and user-friendly web applications.  
+⚡ Experienced in building **IoT platforms, dashboards, and management systems**.  
+🌱 Skilled in **React, Angular, JavaScript, CSS, HTML**, and exploring **MERN Stack**.  
+🚀 Currently working on **enhancing UI/UX for IoT and Full-Stack applications**.  
+
+---
+
+## 🛠️ Tech Stack  
+
+### 🎨 Frontend  
+<p align="center">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white"/>
+</p>
+
+### ⚙️ Backend & Database  
+<p align="center">
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
+</p>
+
+### 🔧 Tools & Platforms  
+<p align="center">
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
+  <img src="https://img.shields.io/badge/XAMPP-FB7A24?style=for-the-badge&logo=xampp&logoColor=white"/>
+</p>
 
 ---
 
 ## 📂 Featured Projects  
-- **Smartlight IoT Systems** – Browser-based wireless streetlight monitoring and controlling application  
-- **IoT Service Management System** – E-commerce-style platform for IoT products & services  
-- **Home Rental Application (MERN)** – Property booking & management system  
-- **CRI Pumps Integration** – Telemetry data extraction and API integration with IoT platforms  
+
+- 🎁 [**Personalized Gift Idea Generator**](https://github.com/Balajijebbu/Personalized-Gift-Idea-Generator) – Smart tool suggesting gifts based on user inputs  
+- 📑 [**Multi-PDF to Text Extractor**](https://github.com/Balajijebbu/Multi-PDF-to-Text-Extractor) – Extracts text from multiple PDFs efficiently  
+- 📚 [**Library Manager**](https://github.com/Balajijebbu/Library-Manager) – A mini system to manage books and records  
+- 🌍 [**Multi-language Translator**](https://github.com/Balajijebbu/Multi-language-translator) – Lightweight translator web app  
+- 💼 [**My Portfolio**](https://github.com/Balajijebbu/My_portfolio) – Personal portfolio website  
+- 🏭 [**Inventory Management for Ghee Factory**](https://github.com/Balajijebbu/Inventory-Management-Ecommerce-Application-for-Ghee-Factory) – Consultancy project  
+- 🌐 [**Career Connect**](https://github.com/Balajijebbu/Carrer-Connect) – Job & career connecting platform  
+- 📆 [**Calendar Reminder Management**](https://github.com/Balajijebbu/Calender-Reminder-Management) – Event scheduling & reminders  
 
 ---
 
-## 📊 GitHub Stats  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jeyabalaji&show_icons=true&theme=tokyonight)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jeyabalaji&layout=compact&theme=tokyonight)  
+## 📊 GitHub Analytics  
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Balajijebbu&show_icons=true&theme=radical" height="180em"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Balajijebbu&layout=compact&theme=radical" height="180em"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Balajijebbu&theme=radical" height="180em"/>
+</p>
 
 ---
 
-## 📫 Connect with Me  
-- 💼 [LinkedIn](https://www.linkedin.com/)  
-- ✉️ Email: your-email@example.com  
+## 🌍 Connect with Me  
+<p align="center">
+  <a href="https://github.com/Balajijebbu" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/jeya-balaji-800397259" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+## 🐍 Fun Animation  
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Balajijebbu/Balajijebbu/output/github-contribution-grid-snake.svg" alt="snake animation"/>
+</p>
+
+---
+
+✨ *“Crafting interactive UIs & scalable apps — one commit at a time.”* ✨
