@@ -1,6 +1,10 @@
-<!-- Profile Header -->
+<!-- Profile Header with Wave Animation -->
 <h1 align="center">Hi 👋, I'm Jeya Balaji C K</h1>
 <h3 align="center">💻 Front-End Developer | ⚡ IoT Enthusiast | 🌐 Full-Stack Learner</h3>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=header" width="100%"/>
+</p>
 
 <!-- Typing Animation -->
 <p align="center">
@@ -12,7 +16,7 @@
 ## 📝 About Me  
 ✨ I’m a **Front-End Developer** passionate about creating responsive, interactive, and user-friendly web applications.  
 ⚡ Experienced in building **IoT platforms, dashboards, and management systems**.  
-🌱 Skilled in **React, Angular, JavaScript, CSS, HTML**, and exploring **MERN Stack**.  
+🌱 Skilled in **React, Redux, TypeScript, JavaScript, CSS, HTML**, and exploring **MERN Stack**.  
 🚀 Currently working on **enhancing UI/UX for IoT and Full-Stack applications**.  
 
 ---
@@ -24,8 +28,9 @@
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white"/>
 </p>
 
 ### ⚙️ Backend & Database  
@@ -75,21 +80,18 @@
 ## 🌍 Connect with Me  
 <p align="center">
   <a href="https://github.com/Balajijebbu" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
   <a href="https://www.linkedin.com/in/jeya-balaji-800397259" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 </p>
 
 ---
 
-## 🐍 Fun Animation  
-
+<!-- Footer Wave Animation -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Balajijebbu/Balajijebbu/output/github-contribution-grid-snake.svg" alt="snake animation"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%"/>
 </p>
-
----
 
 ✨ *“Crafting interactive UIs & scalable apps — one commit at a time.”* ✨
